@@ -1,3 +1,14 @@
 Comeco de um sonho :wave:
 
 Iniciando o projeto, tudo certo até o momento, verificando o username.
+
+check >> rpa gravar na mente!
+
+git init >> 
+git config --global user.name **
+git config --global user.email **
+
+git commit -m " ** "
+git push origin main 
+
+GG!
