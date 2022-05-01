@@ -82,3 +82,19 @@ button.dark-mode:hover {
 	background-color: #4e545c;
 	color: #e5e8e8;
 }
+
+#jogador-selecionado {
+	font-size: 30px;
+}
+
+#vencedor-selecionado {
+	font-size: 30px;
+}
+
+#jogador-selecionado2 {
+	font-size: 30px;
+}
+
+#vencedor-selecionado2 {
+	font-size: 30px;
+}
